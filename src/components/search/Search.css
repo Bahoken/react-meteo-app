@@ -1,0 +1,28 @@
+:root {
+    --blue: #0066DA;
+    --red: #C5221F;
+    --green: #34A853;
+    --yellow: #FFBA00;
+}
+
+.blue {
+    color: var(--blue);
+}
+
+.green {
+    color: var(--green);
+}
+
+.yellow {
+    color: var(--yellow);
+}
+
+.red {
+    color: var(--red);
+}
+
+
+.search-tile {
+    font-size: 50px;
+    margin-bottom: 2%;
+}
